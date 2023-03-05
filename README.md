@@ -15,16 +15,16 @@ Click Below Picture To Open VChat Bot Owner Id...
 ## Deploy
 🌷 You can Deploy Easily Fork repo and Give Start 🌷
 
-## 🥀 Bot Deploy On Workflow / (KAALI LINUX)
+## 🥀 Bot Deploy On Workflow / (CRUSH WOULD)
  At 1st Import This Repo Then Input All Value In Bikash.py || Then Proceed Kaali Linux Value Or Ect.
 
-## 🥀 Kaali Linux Tutorial
+## 🥀 crush would Linux Tutorial
 
-[Kaali Linux](https://youtu.be/_nZT5lhcL8U)
+[Krishna](https://youtu.be/_nZT5lhcL8U)
 
-## 🥀 Chat Bot Deploy Tutorial On Kaali Linux 
+## 🥀 Chat Bot Deploy Tutorial On Krishna 
 
-[Kaali Linux](https://youtu.be/fFRxAG1mCVU)
+[Krishna](https://youtu.be/fFRxAG1mCVU)
 
 ## ⚒️ 𝐂𝐫𝐞𝐝𝐢𝐭
 [Krishna](https://t.me/krishna_op_143)
@@ -43,7 +43,7 @@ Click Below Picture To Open VChat Bot Owner Id...
 #### 🥺 Copy Pasters You Can Copy This Repo But Must Give Credits ...
 
 ### 🌷 Owner Of This Repository 🇮🇳
-[![Krishna](https://te.legra.ph/file/840fed0100164af249bb8.jpg)](https://t.me/krishna_op_143)
+[![Krishna](https://te.legra.ph/file/bc528cfec178996ece3c7.jpg)](https://t.me/krishna_op_143)
 
 
 #### Main Developer = [Krishna](https://t.me/krishna_op_143)
