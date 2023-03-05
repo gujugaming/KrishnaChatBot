@@ -9,7 +9,7 @@ Click Below Picture To Open VChat Bot Owner Id...
 
 ### Deploy To Heroku
 
-[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/gujugaming/KrishnaChatBot)
+[![Deploy+On+Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sahilsaim1919/BikashChatBot)
 
 
 ## Deploy
